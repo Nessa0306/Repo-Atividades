@@ -1,1 +1,3 @@
-Linha diferente na master
+
+Linha diferente na master + Linha modificada na branch ajuste-linha
+
